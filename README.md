@@ -1,18 +1,19 @@
 # Travel Insurance Prediction
 ## 1.	Descriptive Statistics
-![info](http://localhost:8891/files/Documents/Rakamin/info%20data.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![info](https://raw.githubusercontent.com/imamd46/Final-Project/main/pic/info%20data.png)
+
 Pada gambar diatas tentang info data tidak terdapat data yang *null* lalu terdapat kolom **Unnamed: 0** yang dirasa tidak terlalu dibutuhkan
 
-![desc](http://localhost:8891/files/Documents/Rakamin/describe.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![desc](https://github.com/imamd46/Final-Project/blob/main/pic/describe.png?raw=true)
 
 nilai *mean* dan *median* pada setiap kolom tidak terlalu jauh berbeda yang berarti tidak ada *skew* pada data
 
-![boxplot](http://localhost:8891/files/Documents/Rakamin/Boxplot.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![boxplot](https://github.com/imamd46/Final-Project/blob/main/pic/Boxplot.png)
 
 Jika dilihat dari *Boxplot* data numerik nya tidak terdapat sebuah *outlier* dari data maka dapat disimpulkan data sudah bersih
 
 ## 2.	Univariate Analysis 
-![univariate](http://localhost:8891/files/Documents/Rakamin/Univariate.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![univariate](https://github.com/imamd46/Final-Project/blob/main/pic/Univariate.png)
 
 **Insight :**
 - Grafik Employment
@@ -29,13 +30,13 @@ Customer yang menyatakan no atau tidak menggunakan produk travel insurance lebih
 ## 3.	Multivariate Analysis
 **Distribusi Variabel kategori dengan Target**
 
-![Multi](http://localhost:8891/files/Documents/Rakamin/multi.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![Multi](https://github.com/imamd46/Final-Project/blob/main/pic/multi.png)
 
 Secara Singkat dapat diketahui dari visualisasi mayoritas data berdasarkan rasio jumlah tiap kategorinya bahwa Customer yang menggunakan Travel Insurance adalah Customer dengan kategori Sarjana, tidak memiliki penyakit kronis, bekerja di Private Sector, tidak sering bepergian, dan belum pernah keluar negeri. kategori Customer tersebut merupakan kategori-kategori dengan penggunaan Travel Insurance yang banyak.
 
 **Korelasi Variabel kategori dengan Target**
 
-![corr](http://localhost:8891/files/Documents/Rakamin/corr.png?_xsrf=2%7C6c5fc4a0%7Cc78ba531a75a9a980d9d7583b6a1f3b8%7C1678889168)
+![corr](https://github.com/imamd46/Final-Project/blob/main/pic/corr.png)
 
 Variabel kategori Heatmap yang berkorelasi dengan fitur target:
 - variabel EverTravelledAbroad, FrequentFlyer dan Employment Type
